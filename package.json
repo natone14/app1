@@ -1,0 +1,14 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "https": "^1.0.0"
+  }
+}
